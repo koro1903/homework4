@@ -1,0 +1,97 @@
+@import "./common.css";
+
+body {
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    color: black;
+
+    font-family: 'Roboto', sans-serif;
+}
+h1 {
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 79px;
+}
+h2 {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+p{
+    color: #727272;
+}
+button {
+    padding: 19px 41px 20px;
+    margin-top: 65px;
+    background: #34547A;
+    color: #FFFFFF;
+    letter-spacing: 0.1em;
+}
+header{
+    color: #34547A;
+}
+.section1{
+    max-width: 540px;
+}
+
+.background{
+    padding: 80px 20% 140px;
+    background: #EEEFF1;
+}
+section{
+    padding: 0 20%;
+}
+.section2{
+    padding: 112px 20% 100px;
+    background: #ffffff;
+}
+.section2 p{
+    max-width: 540px;
+    text-align: center;
+    margin: 0 auto;
+}
+nav a:not(:first-of-type){
+    margin-left: 42px;
+}
+nav {
+    Font-size: 16px;
+    Line-height: 26px;
+}
+.section3{
+    max-width: 1920px;
+    padding-left: 0;
+}
+.section4{
+    padding: 100px 20% 100px;
+    background:#EEEFF1 ;
+}
+.section4 p{
+    max-width: 540px;
+    text-align: center;
+    margin: 0 auto;
+}
+.section5{
+    display: flex;
+    max-width: 1110px;
+    padding: 100px 10% 100px;
+    margin: 0 auto;
+}
+.background2{
+    background: #34547A;
+    height: 151px;
+}
+.background2 div{
+    color: #FFFFFF;
+    padding-top: 50px;
+    font-size: 21px;
+}
+.background2 p{
+    color: #FFFFFF;
+    padding-top: 20px;
+    font-size: 13px;
+
+
+}
